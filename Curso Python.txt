@@ -1,0 +1,4 @@
+- Python es un lenguaje de programacion interpretado es decir que no se compila, es un lenguaje del tipo script 
+- Lenguaje multiparadigma
+- Para ejecutar un archivo Python se usa el comando python o py seguido del nombre del script
+- Python es un lenguaje no tipado
